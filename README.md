@@ -106,7 +106,6 @@ I enjoy working on problems involving:
 ## 📫 Connect With Me
 
 - **Email:** [talaviyajay10@gmail.com](mailto:talaviyajay10@gmail.com)
-- **LinkedIn:** [linkedin.com/in/jay-talaviya-ab5b0b1b6](https://www.linkedin.com/in/jay-talaviya-ab5b0b1b6/)
 - **GitHub:** [github.com/TALAVIYAJAY](https://github.com/TALAVIYAJAY)
 
 ---
